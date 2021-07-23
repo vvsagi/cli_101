@@ -5,5 +5,5 @@
 ### Technologies Used
 
 * Text files
-* markdown
-* fake mp3s
+* Markdown
+* Fake mp3s
